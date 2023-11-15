@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktesting_project=self.webpackChunktesting_project||[]).push([[273],{273:(e,t,s)=>{s.r(t),s.d(t,{default:()=>r});s(791);var c=s(184);const r=()=>(0,c.jsx)("table",{children:(0,c.jsxs)("tr",{children:[(0,c.jsx)("td",{children:"Dummy"}),(0,c.jsx)("td",{children:"List"})]})})}}]);
+//# sourceMappingURL=273.6c197026.chunk.js.map
